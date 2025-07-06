@@ -22,5 +22,6 @@ A UART-controlled Arithmetic Logic Unit (ALU) implemented in synthesizable Veril
 ## Usage
 Simulate `top_uart_alu_tb.v` in Vivado and observe UART behavior. Modify inputs to test different operations.
 
+## Simulation
 <img width="735" alt="{747036D2-2680-434C-B000-2311AB47CC08}" src="https://github.com/user-attachments/assets/588316b1-46d9-4c6b-9600-854257fb61c6" />
 
