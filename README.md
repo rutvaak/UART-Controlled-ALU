@@ -1,7 +1,7 @@
 # UART-Controlled ALU in Verilog
 
 ##  Description
-A UART-controlled Arithmetic Logic Unit (ALU) implemented in synthesizable Verilog. Designed for FPGA and RTL-based verification interviews. This project accepts ALU instructions over UART (via a PC) and returns the computed result via UART TX.
+A UART-controlled Arithmetic Logic Unit (ALU) implemented in synthesizable Verilog. Designed for FPGA and RTL-based verification. This project accepts ALU instructions over UART (via a PC) and returns the computed result via UART TX.
 
 ##  Features
 - 8-bit ALU: ADD, SUB, AND, OR, XOR, NOT, INC, DEC
